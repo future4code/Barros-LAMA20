@@ -1,4 +1,4 @@
-/*-------------------------------------Exercício 1
+/*-------------------------------------Exercício 1 ----------------------------------
 
 a) Responda como comentário no seu código: como fazemos para acessar os parâmetros passados na linha 
 de comando para o Node? 
